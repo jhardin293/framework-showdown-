@@ -1,13 +1,10 @@
 .navbar{
 	margin-bottom: 0px;
-};
+}
 .container-fluid {
 	padding-left: 0px !important;
-};
+}
 
-@media (min-width: @screen-sm-min) { 
-	.container-fluid {
-	padding-left: 9px !important;
-};
-
+.carousel {
+	padding-bottom: 10x ;
 }
