@@ -20,11 +20,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/feed.html": {
+	"\/gallery.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/feed.html",
+		"inputAbbreviatedPath": "\/gallery.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -37,6 +37,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/mainpage_collage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121276,
+		"inputAbbreviatedPath": "\/mainpage_collage.jpg",
+		"outputAbbreviatedPath": "\/mainpage_collage.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/README.md": {
 		"enableFootnoteSupport": 0,

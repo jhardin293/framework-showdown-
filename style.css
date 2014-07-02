@@ -6,7 +6,7 @@
 }
 
 .carousel {
-	padding-bottom: 10x;
+
 }
 #box3{
 	padding-top: 50px;
@@ -14,4 +14,27 @@
 }
 .portfolio-item{
 	padding-bottom: 30px;
+}
+.title{
+	text-align: center;
+}
+.about{
+	background-color: #F3F0F0;
+	/*height: 500px;*/
+}
+.aboutContent{
+	font-size: 1.2em;
+}
+.embed-responsive{
+	left: 6px;	
+}
+.message{
+	padding-top: 50px;
+}
+.contact-form{
+	padding-top: 20px;
+	
+}
+.box{
+	padding-bottom: 10px;
 }
