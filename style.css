@@ -5,3 +5,7 @@
 	background-color: #F2F2F2;
 	font-size: 3rem;
 }
+.columns {
+	padding-left: 0;
+	padding-right: 0; 
+}
